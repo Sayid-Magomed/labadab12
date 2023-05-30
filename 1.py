@@ -37,13 +37,13 @@ title.pack()
 btn = Button(frame, text='Vanille', bg='white', command=btn_clicky)
 btn.pack()
 
-btn = Button(frame, text='Chocolate', bg='brown', command=btn_clickb)
+btn = Button(frame, text='Chocolate', bg='white', command=btn_clickb)
 btn.pack()
 
-btn = Button(frame, text='Creme brulee', bg='yellow', command=btn_clickbl)
+btn = Button(frame, text='Creme brulee', bg='white', command=btn_clickbl)
 btn.pack()
 
-btn = Button(frame, text='Mint', bg='green', command=btn_clickg)
+btn = Button(frame, text='Mint', bg='white', command=btn_clickg)
 btn.pack()
 
 root.mainloop()
